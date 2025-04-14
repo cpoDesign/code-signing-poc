@@ -1,0 +1,14 @@
+C:\code\signing-code\src\CodeSigningFunction\bin\Release\net9.0\CodeSigningFunction.exe
+C:\code\signing-code\src\CodeSigningFunction\bin\Release\net9.0\CodeSigningFunction.deps.json
+C:\code\signing-code\src\CodeSigningFunction\bin\Release\net9.0\CodeSigningFunction.runtimeconfig.json
+C:\code\signing-code\src\CodeSigningFunction\bin\Release\net9.0\CodeSigningFunction.dll
+C:\code\signing-code\src\CodeSigningFunction\bin\Release\net9.0\CodeSigningFunction.pdb
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.AssemblyInfoInputs.cache
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.AssemblyInfo.cs
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.csproj.CoreCompileInputs.cache
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.dll
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\refint\CodeSigningFunction.dll
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.pdb
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\CodeSigningFunction.genruntimeconfig.cache
+C:\code\signing-code\src\CodeSigningFunction\obj\Release\net9.0\ref\CodeSigningFunction.dll
