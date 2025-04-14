@@ -142,4 +142,4 @@ Some operations may require administrator privileges. If you encounter permissio
 
 ## License
 
-[Your License Here] 
+MIT
